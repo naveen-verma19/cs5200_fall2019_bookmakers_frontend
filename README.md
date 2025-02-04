@@ -12,12 +12,6 @@ http://ec2-52-91-175-171.compute-1.amazonaws.com/
 ## API LINK 
 http://ec2-52-91-175-171.compute-1.amazonaws.com:3000/api/bookstores.
 
-## Backend Code
-https://github.ccs.neu.edu/naveenverma088/cs5200_fall2019_bookmakers_backend
-
-
-
-
 
 ## Installation 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
