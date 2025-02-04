@@ -1,3 +1,11 @@
+## Project- Problem statement, Database Design, UML, Sequence Diagram and Testing
+[About the Project](Project.md)  
+[The Design](Project.md)  
+[Testing Strategy](Testing.md)  
+## Youtube URL
+https://www.youtube.com/playlist?list=PLrUCXMz2zUCY9VJp1-wlyLEHSnqTe3FHy
+
+
 ## Website Link
 http://ec2-52-91-175-171.compute-1.amazonaws.com/
 
@@ -7,11 +15,7 @@ http://ec2-52-91-175-171.compute-1.amazonaws.com:3000/api/bookstores.
 ## Backend Code
 https://github.ccs.neu.edu/naveenverma088/cs5200_fall2019_bookmakers_backend
 
-## Project- Problem statement, Database Design, UML, Sequence Diagram and Testing
-https://github.ccs.neu.edu/naveenverma088/cs5200_fall2019_the_bookmakers/wiki
 
-## Youtube URL
-https://www.youtube.com/playlist?list=PLrUCXMz2zUCY9VJp1-wlyLEHSnqTe3FHy
 
 
 
